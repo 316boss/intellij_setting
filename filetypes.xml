@@ -3,13 +3,13 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".1555752019019.crc" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".1555753713709.crc" type="PLAIN_TEXT" />
-      <mapping pattern="price" type="PLAIN_TEXT" />
-      <mapping pattern="1555753712296" type="PLAIN_TEXT" />
-      <mapping pattern="relationship" type="PLAIN_TEXT" />
       <mapping pattern="json1" type="PLAIN_TEXT" />
+      <mapping pattern="1555753712296" type="PLAIN_TEXT" />
+      <mapping pattern="price" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="relationship" type="PLAIN_TEXT" />
+      <mapping pattern=".1555753713709.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".1555752019019.crc" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
