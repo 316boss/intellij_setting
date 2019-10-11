@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="var" value="var" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>
